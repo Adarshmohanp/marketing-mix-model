@@ -137,17 +137,7 @@ This project is for analytical purposes. Please ensure you have the right to use
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Support
 
-For questions about this analysis:
-1. Check the notebook comments for detailed explanations
-2. Review the generated CSV files for additional insights
-3. Ensure your data meets the format requirements described above
-
----
-
-**Note**: This is a simplified marketing mix model. For production use, consider additional factors like seasonality, competitor actions, and economic variables.
-```
 
 
 
