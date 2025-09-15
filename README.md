@@ -1,6 +1,4 @@
-Of course. Here's a comprehensive `README.md` file tailored to your Marketing Mix Model project and folder structure.
 
-```markdown
 # Marketing Mix Modeling (MMM) Analysis
 
 ## 📋 Project Overview
@@ -150,5 +148,6 @@ For questions about this analysis:
 
 **Note**: This is a simplified marketing mix model. For production use, consider additional factors like seasonality, competitor actions, and economic variables.
 ```
+
 
 
